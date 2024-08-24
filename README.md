@@ -7,7 +7,7 @@ Este proyecto es una aplicación web que permite gestionar usuarios a través de
 Para que el proyecto funcione correctamente, sigue estos pasos:
 
 1. **Instala las dependencias del backend:**
-   - Accede a la carpeta `back-end_SP`.
+   - Accede a la carpeta `back-end_SP y cuando estes adentro de esa carpeta accede a la carpeta back-end_SP`.
    - Ejecuta el siguiente comando en la terminal:
      ``` npm install```
 
