@@ -18,6 +18,7 @@ Para que el proyecto funcione correctamente, sigue estos pasos:
 3. **Configura XAMPP:**
    - Asegúrate de que XAMPP esté corriendo con Apache y MySQL.
    - Coloca el proyecto dentro de la carpeta `htdocs` de XAMPP.
+   - importa la base de datos llamada jugueteria en el XAMPP.
 
 ## Uso
 1. Abre el archivo `logint.html` en tu navegador.
